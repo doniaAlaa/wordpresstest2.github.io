@@ -1,0 +1,648 @@
+2021-12-28T20:56:47+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T20:56:58+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T20:57:08+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T20:57:38+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T20:58:09+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T20:58:40+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T20:59:14+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T20:59:47+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:00:20+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:00:54+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:01:31+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:02:06+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:02:39+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:03:09+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:03:13+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:03:43+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:04:14+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:04:45+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:05:16+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:05:49+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:06:21+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:06:52+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:07:23+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:07:54+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:34:17+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:34:49+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:35:22+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:35:53+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:36:26+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:36:58+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:37:29+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:38:04+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:38:41+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:39:14+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:39:46+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T21:40:17+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:17:45+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:17:59+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:18:18+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:18:31+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:18:50+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:19:02+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:19:22+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:19:33+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:19:55+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:20:06+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:20:27+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:20:37+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:20:57+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:21:08+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:21:30+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:21:41+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:22:05+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:22:13+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:22:42+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:22:47+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:23:16+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:23:18+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:23:47+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:23:49+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:24:23+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:24:27+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:24:55+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:25:01+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:25:27+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:25:32+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:25:58+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:26:04+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:26:29+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:26:36+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:27:00+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
+2021-12-28T22:27:06+00:00 CRITICAL Uncaught Error: Class 'WP2Static\JobQueue' not found in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php:129
+Stack trace:
+#0 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(303): StaticWeb\AdminBar::ajax_staticweb_job_queue('')
+#1 /Users/admin/Local Sites/testapi/app/public/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /Users/admin/Local Sites/testapi/app/public/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Users/admin/Local Sites/testapi/app/public/wp-admin/admin-ajax.php(187): do_action('wp_ajax_staticw...')
+#4 {main}
+  thrown in /Users/admin/Local Sites/testapi/app/public/wp-content/plugins/staticweb-io/src/AdminBar.php on line 129
+
